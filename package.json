@@ -1,0 +1,26 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "css advance course project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcotello/Natours.git"
+  },
+  "keywords": [
+    "css",
+    "scss"
+  ],
+  "author": "Marco Tello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcotello/Natours/issues"
+  },
+  "homepage": "https://github.com/marcotello/Natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
